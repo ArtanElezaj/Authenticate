@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Lynda.com\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch03\03_06\Authenticate\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Lynda.com\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch03\03_06\Authenticate\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_8dfed77528ae99402b258241f9b126d720f9db8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Lynda.com\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch03\03_06\Authenticate\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Lynda.com\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch03\03_06\Authenticate\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_e594f84aa6f0cae42b6ca836572608961aaa5184\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Lynda.com\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch03\03_06\Authenticate\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Lynda.com\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch03\03_06\Authenticate\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_e3ad1ac3a2dd9f821f72c203af316f008d182ee7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Lynda.com\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch03\03_06\Authenticate\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Lynda.com\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch03\03_06\Authenticate\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_f2b9e7495c962a3f10ad6f0446be9f3527a54fd2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Lynda.com\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch03\03_06\Authenticate\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e1428f353d4b3136a511ee273a984fa504ddcfbc">
+        <dex dex="C:\Lynda.com\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch03\03_06\Authenticate\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9ac0bed01179a4f3aa70f9fd49ca27136d02576b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nesada\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Lynda.com\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch03\03_06\Authenticate\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_a20a9a98a8f5d8864d57911e0be3467a70aff05d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Lynda.com\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch03\03_06\Authenticate\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Lynda.com\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch03\03_06\Authenticate\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_dc2a4b4ff196b2bfd3a4299a083362be884ccfe1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Lynda.com\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch03\03_06\Authenticate\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Lynda.com\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch03\03_06\Authenticate\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_bf4819211f92328cd165646a17f78b5b463ab748\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Lynda.com\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch03\03_06\Authenticate\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Lynda.com\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch03\03_06\Authenticate\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_ddf275f9500822fab06b4fbb048897d520b5d345\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nesada\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="C:\Lynda.com\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch03\03_06\Authenticate\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.0_37b3b6f93332303d87131230e2ae9c5bec327af2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Lynda.com\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch03\03_06\Authenticate\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Lynda.com\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch03\03_06\Authenticate\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_010a9445f3ef2543f78f9866efba92d8125a3faa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Lynda.com\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch03\03_06\Authenticate\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Lynda.com\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch03\03_06\Authenticate\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_15048a69010aba9a8b1dd0343c157008f4d2a194\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Lynda.com\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch03\03_06\Authenticate\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5212eea75fc45a1340eec79b895bca2893076923">
+        <dex dex="C:\Lynda.com\Ex_Files_Android_Apps_RESTful\Exercise Files\Ch03\03_06\Authenticate\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a9b83ffbec4c46c0c62b63ff1f7592f1e383ccca\classes.dex" />
+    </item>
+
+</items>
